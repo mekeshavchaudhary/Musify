@@ -1,0 +1,14 @@
+.home{
+ 
+}
+
+.card-holder-my{
+    display: flex;
+    /* flex-direction: row; */
+    /* overflow: hidden; */
+}
+.heading {
+    color: rgb(45, 67, 67);
+    font-weight: 700;
+    margin-top: 1rem;
+}
